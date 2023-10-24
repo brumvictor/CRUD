@@ -9,7 +9,7 @@ This is a Contact Registration System project developed in ASP.NET MVC and Entit
 * Microsoft SQL Server
 
 ## Demo
-![ezgif com-crop](https://github.com/brumvictor/CRUD/assets/83709796/110d473b-79d4-4226-ac1f-7236d65fb069)
+![ezgif com-crop](https://github.com/brumvictor/CRUD/assets/83709796/6fbb30c0-13e7-4bb2-af0e-3db293d270aa)
 
 ## Usage
 * You must have .NET 5.0 installed.
